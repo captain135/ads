@@ -1,6 +1,10 @@
+#Below I believe is required for pihole
 127.0.0.1 localhost
+#
+#
 127.0.0.1	thebestpageintheuniverse.net
 #above is just to test that the list is working.
+#
 127.0.0.1	media-match.com
 127.0.0.1	adclick.g.doublecklick.net
 127.0.0.1	www.googleadservices.com
